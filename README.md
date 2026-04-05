@@ -11,7 +11,8 @@ The goal is to simulate a real-world data pipeline by ingesting raw data, transf
 ## Architecture
 
 <!-- 📷 Add your architecture image here -->
-![Project Architecture](./images/architecture.png)
+<img width="648" height="410" alt="Untitled Diagram drawio (10)" src="https://github.com/user-attachments/assets/b4e5b8d0-44ee-430e-9839-52aeb5acabe8" />
+
 
 The pipeline follows a **Medallion Architecture** approach:
 
@@ -69,7 +70,7 @@ Performed data cleaning and transformations using PySpark:
   - Rename columns
   - Drop unnecessary columns
 
-📌 Note:
+Note:
 - Silver layer was created for all tables **except the fact table (`trips`)**
 
 ---
