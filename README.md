@@ -11,7 +11,7 @@ The goal is to simulate a real-world data pipeline by ingesting raw data, transf
 ## Architecture
 
 <!-- 📷 Add your architecture image here -->
-<img width="648" height="410" alt="Untitled Diagram drawio (10)" src="https://github.com/user-attachments/assets/b4e5b8d0-44ee-430e-9839-52aeb5acabe8" />
+<img width="750" height="440" alt="Untitled Diagram drawio (10)" src="https://github.com/user-attachments/assets/b4e5b8d0-44ee-430e-9839-52aeb5acabe8" />
 
 
 The pipeline follows a **Medallion Architecture** approach:
